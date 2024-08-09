@@ -78,3 +78,10 @@ h5 {
     width: 1em;
     margin-left: -1em;
 }
+.custom-list {
+    margin-top: 8px;
+    line-height: 1.9; /* This controls the space between list items */
+}
+.custom-list li {
+    line-height: 1.2; /* This controls the line height within the list item */
+}
